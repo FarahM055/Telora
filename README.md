@@ -10,8 +10,8 @@
 <sub><b>AI & AGENTS</b></sub><br>
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![GPT-4o-mini](https://img.shields.io/badge/GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GPT-5.6-terra](https://img.shields.io/badge/GPT--5.6--terra-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GPT-5.6-sol](https://img.shields.io/badge/GPT--5.6--sol-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GPT-5.6-terra](https://img.shields.io/static/v1?label=&message=GPT-5.6-terra&color=412991&style=for-the-badge&logo=openai&logoColor=white)
+![GPT-5.6-sol](https://img.shields.io/static/v1?label=&message=GPT-5.6-sol&color=412991&style=for-the-badge&logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -20,7 +20,7 @@
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-0F6B6E?style=for-the-badge)
 ![Tool Calling](https://img.shields.io/badge/Tool%20Calling-0F6B6E?style=for-the-badge)
 ![Structured Outputs](https://img.shields.io/badge/Structured%20Outputs-0F6B6E?style=for-the-badge)
-![LLM-as-a-Judge](https://img.shields.io/badge/LLM--as--a--Judge-0F6B6E?style=for-the-badge)
+![LLM-as-a-Judge](https://img.shields.io/static/v1?label=&message=LLM-as-a-Judge&color=0F6B6E&style=for-the-badge)
 ![Guardrails](https://img.shields.io/badge/Guardrails-0F6B6E?style=for-the-badge)
 ![Human-in-the-Loop](https://img.shields.io/badge/Human--in--the--Loop-0F6B6E?style=for-the-badge)
 
@@ -279,6 +279,21 @@ stateDiagram-v2
 - **Model benchmarking.** The workflow was evaluated on **GPT-4o-mini, GPT-5.6-terra, and GPT-5.6-sol**.
 - **Unit tests.** 375+ tests use mocked LLMs and isolated temporary databases, so they make no API calls.
 
+### Measured results
+
+Computed by the admin console from the demo sessions (118 requests on synthetic data). The console recalculates these automatically from any new requests.
+
+| Check | Result | Detail |
+|---|---|---|
+| Search picks found in the catalog | **100%** | 891 package and add-on picks across 76 requests |
+| Explanation facts matching the catalog | **100%** | 170 quoted facts (for example `data_gb = 15`) across 63 requests |
+| Correct prices | **100%** | 106 solutions re-priced by the guardrails, no mismatch |
+| Top-priority need covered | **100%** | of all designed solutions |
+| Over-budget solutions stopped | **4** | above the preferred budget + 15%, never shown |
+| Customers who chose the recommendation | **76%** | 13 of 17 decisions |
+
+Most failed requests in the demo were technical (for example, the OpenAI connection), not wrong answers from the agents.
+
 ```bash
 python -m backend.evaluation.cli sync-datasets
 python -m backend.evaluation.cli run --dataset end_to_end_eval             # deterministic metrics
@@ -366,7 +381,7 @@ python -m backend.evaluation.cli run --dataset end_to_end_eval --semantic  # add
 **1. Install**
 
 ```bash
-git clone <repo-url> telora
+git clone https://github.com/FarahM055/Telora.git telora
 cd telora
 
 python -m venv .venv
