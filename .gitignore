@@ -1,0 +1,30 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.venv*/
+*.egg-info/
+
+# Test & tooling caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors / OS / local tools
+.vscode/
+.idea/
+.claude/
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# Local run artifacts
+*.log
+telora-*-live-*.txt
+data/*.sqlite3-journal
+data/*.sqlite3-wal
+data/*.sqlite3-shm

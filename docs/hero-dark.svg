@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="700" viewBox="0 0 1280 700" role="img" aria-label="TELORA: AI-based telecom package design and recommendation">
+<defs><filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#1E2D50" flood-opacity=".18"/></filter></defs>
+<rect width="1280" height="700" rx="24" fill="#0F1A22"/>
+<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="72" y="138" font-size="64" font-weight="700" letter-spacing="6" fill="#5DC3C0">TEL</text>
+<rect x="225.64705882352942" y="91.6470588235294" width="24.705882352941174" height="24.705882352941174" rx="8.235294117647058" fill="#8E7CF3"/><rect x="253.64705882352942" y="91.6470588235294" width="24.705882352941174" height="24.705882352941174" rx="8.235294117647058" fill="#3CC69C"/><rect x="225.64705882352942" y="119.6470588235294" width="24.705882352941174" height="24.705882352941174" rx="8.235294117647058" fill="#F4B942"/><rect x="253.64705882352942" y="119.6470588235294" width="24.705882352941174" height="24.705882352941174" rx="8.235294117647058" fill="#4BB0EE"/><circle cx="252.0" cy="104.0" r="5.270588235294118" fill="#8E7CF3"/><circle cx="266.0" cy="118.0" r="5.270588235294118" fill="#3CC69C"/><circle cx="238.0" cy="118.0" r="5.270588235294118" fill="#F4B942"/>
+<text x="286" y="138" font-size="64" font-weight="700" letter-spacing="6" fill="#5DC3C0">RA</text>
+<text x="75" y="174" font-size="14" font-weight="700" letter-spacing="7" fill="#A7B4BE">PIECED AROUND YOU</text>
+<text x="72" y="234" font-size="30" font-weight="700" fill="#EEF3F6">AI-based telecom package</text>
+<text x="72" y="272" font-size="30" font-weight="700" fill="#EEF3F6">design &amp; recommendation</text>
+<text x="72" y="314" font-size="18" fill="#A7B4BE">Your needs. Your pieces. Your solution.</text>
+<rect x="72" y="338" width="108.6" height="30" rx="15" fill="#173B40"/><text x="126.3" y="358" text-anchor="middle" font-size="13" font-weight="700" fill="#5DC3C0">Multi-agent</text>
+<rect x="190.6" y="338" width="91.39999999999999" height="30" rx="15" fill="#173B40"/><text x="236.29999999999998" y="358" text-anchor="middle" font-size="13" font-weight="700" fill="#5DC3C0">LangGraph</text>
+<rect x="292.0" y="338" width="160.2" height="30" rx="15" fill="#173B40"/><text x="372.1" y="358" text-anchor="middle" font-size="13" font-weight="700" fill="#5DC3C0">Human-in-the-loop</text>
+<g transform="rotate(-8 850 150)" filter="url(#sh)"><rect x="786.0" y="86.0" width="128" height="128" rx="20.48" fill="#8E7CF3"/><circle cx="914.0" cy="150" r="16.64" fill="#8E7CF3"/><circle cx="850" cy="214.0" r="16.64" fill="#8E7CF3"/><rect x="786.0" y="86.0" width="128" height="53.76" rx="20.48" fill="#FFFFFF" opacity=".16"/><text x="850" y="154" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19.2" font-weight="700" fill="#FFFFFF">Data</text><rect x="811.6" y="166.64" width="76.8" height="20.48" rx="10.24" fill="#FFFFFF" opacity=".92"/><text x="850" y="182.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.8" font-weight="700" fill="#8E7CF3">Medium</text></g>
+<g transform="rotate(6 1010 140)" filter="url(#sh)"><rect x="946.0" y="76.0" width="128" height="128" rx="20.48" fill="#F27A6E"/><circle cx="1074.0" cy="140" r="16.64" fill="#F27A6E"/><circle cx="1010" cy="204.0" r="16.64" fill="#F27A6E"/><rect x="946.0" y="76.0" width="128" height="53.76" rx="20.48" fill="#FFFFFF" opacity=".16"/><text x="1010" y="144" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19.2" font-weight="700" fill="#FFFFFF">Streaming</text><rect x="971.6" y="156.64" width="76.8" height="20.48" rx="10.24" fill="#FFFFFF" opacity=".92"/><text x="1010" y="172.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.8" font-weight="700" fill="#F27A6E">High</text></g>
+<g transform="rotate(4 858 300)" filter="url(#sh)"><rect x="794.0" y="236.0" width="128" height="128" rx="20.48" fill="#6A93F0"/><circle cx="922.0" cy="300" r="16.64" fill="#6A93F0"/><circle cx="858" cy="364.0" r="16.64" fill="#6A93F0"/><rect x="794.0" y="236.0" width="128" height="53.76" rx="20.48" fill="#FFFFFF" opacity=".16"/><text x="858" y="304" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19.2" font-weight="700" fill="#FFFFFF">Gaming</text><rect x="819.6" y="316.64" width="76.8" height="20.48" rx="10.24" fill="#FFFFFF" opacity=".92"/><text x="858" y="332.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.8" font-weight="700" fill="#6A93F0">Low</text></g>
+<g transform="rotate(-5 1018 292)" filter="url(#sh)"><rect x="954.0" y="228.0" width="128" height="128" rx="20.48" fill="#D9A94F"/><circle cx="1082.0" cy="292" r="16.64" fill="#D9A94F"/><circle cx="1018" cy="356.0" r="16.64" fill="#D9A94F"/><rect x="954.0" y="228.0" width="128" height="53.76" rx="20.48" fill="#FFFFFF" opacity=".16"/><text x="1018" y="296" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19.2" font-weight="700" fill="#FFFFFF">Budget</text><rect x="979.6" y="308.64" width="76.8" height="20.48" rx="10.24" fill="#FFFFFF" opacity=".92"/><text x="1018" y="324.0" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.8" font-weight="700" fill="#D9A94F">≈ 220 SAR</text></g>
+<rect x="40" y="450" width="1200" height="112" rx="18" fill="#16242E" stroke="#26394A"/>
+<path d="M154.0 486 L286.0 486" stroke="#3A5163" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round"/><path d="M282.0 480 L290.0 486 L282.0 492" stroke="#3A5163" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M362.0 486 L494.0 486" stroke="#3A5163" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round"/><path d="M490.0 480 L498.0 486 L490.0 492" stroke="#3A5163" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M570.0 486 L702.0 486" stroke="#3A5163" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round"/><path d="M698.0 480 L706.0 486 L698.0 492" stroke="#3A5163" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M778.0 486 L910.0 486" stroke="#3A5163" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round"/><path d="M906.0 480 L914.0 486 L906.0 492" stroke="#3A5163" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M986.0 486 L1118.0 486" stroke="#3A5163" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round"/><path d="M1114.0 480 L1122.0 486 L1114.0 492" stroke="#3A5163" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="120.0" cy="486" r="26" fill="#8E7CF3"/>
+<g transform="translate(108.0 474)"><path d="M7 4h4a2 2 0 1 1 4 0h4v4a2 2 0 1 1 0 4v4h-4a2 2 0 1 0-4 0H7v-4a2 2 0 1 0 0-4z" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="120.0" y="532" text-anchor="middle" font-size="15" font-weight="700" fill="#EEF3F6">Needs</text>
+<text x="120.0" y="550" text-anchor="middle" font-size="12" fill="#A7B4BE">priority · level · budget</text>
+<circle cx="328.0" cy="486" r="26" fill="#0F6B6E"/>
+<g transform="translate(316.0 474)"><path d="M10.5 4a6.5 6.5 0 1 1 0 13a6.5 6.5 0 0 1 0-13zM15.5 15.5L20 20" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="328.0" y="532" text-anchor="middle" font-size="15" font-weight="700" fill="#EEF3F6">Search Agent</text>
+<text x="328.0" y="550" text-anchor="middle" font-size="12" fill="#A7B4BE">tool calling · reduce</text>
+<circle cx="536.0" cy="486" r="26" fill="#6A93F0"/>
+<g transform="translate(524.0 474)"><path d="M12 4v16M7 20h10M5 8h14M5 8l-2.5 6a3 3 0 0 0 5 0zM19 8l-2.5 6a3 3 0 0 0 5 0z" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="536.0" y="532" text-anchor="middle" font-size="15" font-weight="700" fill="#EEF3F6">AI Judge</text>
+<text x="536.0" y="550" text-anchor="middle" font-size="12" fill="#A7B4BE">checks the shortlist</text>
+<circle cx="744.0" cy="486" r="26" fill="#F27A6E"/>
+<g transform="translate(732.0 474)"><path d="M14.5 5.5a4 4 0 0 0 4 5.5l-8 8a2 2 0 0 1-3-3l8-8a4 4 0 0 0-1-2.5z" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="744.0" y="532" text-anchor="middle" font-size="15" font-weight="700" fill="#EEF3F6">Design Agent</text>
+<text x="744.0" y="550" text-anchor="middle" font-size="12" fill="#A7B4BE">up to 3 solutions</text>
+<circle cx="952.0" cy="486" r="26" fill="#1D6B43"/>
+<g transform="translate(940.0 474)"><path d="M12 3l7 3v5c0 4.5-3 8-7 10c-4-2-7-5.5-7-10V6z M9 12l2 2l4-4" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="952.0" y="532" text-anchor="middle" font-size="15" font-weight="700" fill="#EEF3F6">4 Guardrails</text>
+<text x="952.0" y="550" text-anchor="middle" font-size="12" fill="#A7B4BE">catalog · price · budget</text>
+<circle cx="1160.0" cy="486" r="26" fill="#F4B942"/>
+<g transform="translate(1148.0 474)"><path d="M12 3a9 9 0 1 1 0 18a9 9 0 0 1 0-18zM8 12.5l2.7 2.7L16 10" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="1160.0" y="532" text-anchor="middle" font-size="15" font-weight="700" fill="#EEF3F6">Customer decides</text>
+<text x="1160.0" y="550" text-anchor="middle" font-size="12" fill="#A7B4BE">apply or cancel</text>
+<rect x="40.0" y="600" width="161.14285714285714" height="76" rx="14" fill="#16242E" stroke="#26394A"/>
+<text x="120.57142857142857" y="638" text-anchor="middle" font-size="28" font-weight="800" fill="#5DC3C0">2</text>
+<text x="120.57142857142857" y="660" text-anchor="middle" font-size="12.5" font-weight="600" fill="#A7B4BE">AI agents</text>
+<rect x="213.14285714285714" y="600" width="161.14285714285714" height="76" rx="14" fill="#16242E" stroke="#26394A"/>
+<text x="293.7142857142857" y="638" text-anchor="middle" font-size="28" font-weight="800" fill="#5DC3C0">1</text>
+<text x="293.7142857142857" y="660" text-anchor="middle" font-size="12.5" font-weight="600" fill="#A7B4BE">runtime judge</text>
+<rect x="386.2857142857143" y="600" width="161.14285714285714" height="76" rx="14" fill="#16242E" stroke="#26394A"/>
+<text x="466.85714285714283" y="638" text-anchor="middle" font-size="28" font-weight="800" fill="#5DC3C0">4</text>
+<text x="466.85714285714283" y="660" text-anchor="middle" font-size="12.5" font-weight="600" fill="#A7B4BE">guardrails</text>
+<rect x="559.4285714285714" y="600" width="161.14285714285714" height="76" rx="14" fill="#16242E" stroke="#26394A"/>
+<text x="640.0" y="638" text-anchor="middle" font-size="28" font-weight="800" fill="#5DC3C0">1–3</text>
+<text x="640.0" y="660" text-anchor="middle" font-size="12.5" font-weight="600" fill="#A7B4BE">tailored solutions</text>
+<rect x="732.5714285714286" y="600" width="161.14285714285714" height="76" rx="14" fill="#16242E" stroke="#26394A"/>
+<text x="813.1428571428571" y="638" text-anchor="middle" font-size="28" font-weight="800" fill="#5DC3C0">0</text>
+<text x="813.1428571428571" y="660" text-anchor="middle" font-size="12.5" font-weight="600" fill="#A7B4BE">invented prices</text>
+<rect x="905.7142857142857" y="600" width="161.14285714285714" height="76" rx="14" fill="#16242E" stroke="#26394A"/>
+<text x="986.2857142857142" y="638" text-anchor="middle" font-size="28" font-weight="800" fill="#5DC3C0">375+</text>
+<text x="986.2857142857142" y="660" text-anchor="middle" font-size="12.5" font-weight="600" fill="#A7B4BE">automated tests</text>
+<rect x="1078.857142857143" y="600" width="161.14285714285714" height="76" rx="14" fill="#16242E" stroke="#26394A"/>
+<text x="1159.4285714285716" y="638" text-anchor="middle" font-size="28" font-weight="800" fill="#5DC3C0">3</text>
+<text x="1159.4285714285716" y="660" text-anchor="middle" font-size="12.5" font-weight="600" fill="#A7B4BE">models benchmarked</text>
+</g></svg>
